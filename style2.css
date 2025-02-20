@@ -1,0 +1,118 @@
+.landing-page,
+.landing-page * {
+  box-sizing: border-box;
+}
+.landing-page {
+  background: #f35b5e;
+  padding: 10px;
+  height: 1000px;
+  position: relative;
+}
+.bmgt-407 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 44px;
+  top: 39px;
+  width: 281px;
+  height: 86px;
+}
+.bmgt-407-information-systems-projects {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  left: 41px;
+  top: 163px;
+  width: 1182px;
+  height: 79px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 1084px;
+  top: 39px;
+  width: 108px;
+  height: 59px;
+}
+.homepage {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 866px;
+  top: 38px;
+  width: 174px;
+  height: 59px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  left: 1236px;
+  top: 39px;
+  width: 135px;
+  height: 59px;
+}
+.bmgt-407-is-the-captsone-course-for-information-systems-is-majors-where-studetns-apply-their-knowledge-to-develop-real-world-is-solutions-for-business-clients {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 679px);
+  top: 259px;
+  width: 1248px;
+  height: 132px;
+}
+.semester-details-spring-2025 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 41px;
+  top: 429px;
+  width: 494px;
+  height: 59px;
+}
+.professor-paul-t-shapiro {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 41px;
+  top: 488px;
+  width: 494px;
+  height: 59px;
+}
+.teaching-assistants-bahrath-sreekumar-caifu-lin-sumanth-devara {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 41px;
+  top: 547px;
+  width: 1115px;
+  height: 59px;
+}
